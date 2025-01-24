@@ -2,9 +2,9 @@
 Translations for [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu/).
 
 ## File names:
-File names are set to `bo-OB.json`, where:
-`bo` is a **two** letter language code, seen [here](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
-`OB` is a **two** letter region code, seen [here](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+File names are set to `en-US.json`, where:
+`en` is a **two** letter language code, seen [here](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
+`US` is a **two** letter region code, seen [here](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
 
 ### For example
 Japanese would be `ja-JP.json`
