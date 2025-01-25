@@ -41,13 +41,7 @@ An example credits is this:
 "contributors": [
     {
         "username": "TheSillyDoggo",
-        "account-id": 16778880,
-        "icon-id": 373,
-        "primary-col": 12,
-        "secondary-col": 98,
-        "glow-enabled": true,
-        "glow-col": 12,
-        "death-effect-id": 3
+        "account-id": 16778880
     }
 ],
 ```
