@@ -1,5 +1,5 @@
 # Translations
-Translations for [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu/).
+Translations for XOLMenu (a fork of [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu/))
 
 ## File names:
 File names are set to `en-US.json`, where:
@@ -47,7 +47,7 @@ An example credits is this:
 ```
 
 ### Thank you!
-Thank you for helping contribute to QOLMod.
+Thank you for helping contribute to XOLMenu.
 This means a lot and without **YOUR** help translations would not have been possible.
 
 <3
